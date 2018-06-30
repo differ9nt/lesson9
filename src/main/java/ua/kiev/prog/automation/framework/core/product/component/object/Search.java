@@ -45,9 +45,6 @@ public class Search extends ForumPageObject{
         }
 
     }
-    public void listTile() {
 
-
-    }
 
 }
